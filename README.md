@@ -6,4 +6,4 @@ Steps:
 3. run lmm.sh: `./lmm.sh`
 4. (optional) Rename mp3: `python3 lmm_rename.py`
 
-shell script thanks to @Rorschach
+shell script is authored by @Rorschach
