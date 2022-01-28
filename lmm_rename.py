@@ -2,7 +2,7 @@ import os
 from os.path import exists
 
 f = open("lmm_audio.xml", "r")
-fw = open("out.txt", "w")
+# fw = open("out.txt", "w")
 myline = f.readline()
 while myline:
     loc = myline.find(".mp3")
